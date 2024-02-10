@@ -1,7 +1,9 @@
 <h1 align="center">myTermux</h1>
 
 <p align="center">This is my personal configuration for my favorite Termux</p>
-<p align="center">This is inspired/forked/edited by [mayTermux](https://github.com/mayTermux/myTermux)</p>
+>  🌠 Inspired/fork/edit from  [`mayTermux`](https://github.com/mayTermux/myTermux)
+> 
+>  💻 Linux Configuration by [`S4NKALP`](https://github.com/S4NKALP).
 
 
 ## Installation Dependecies
